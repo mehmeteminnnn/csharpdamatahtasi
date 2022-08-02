@@ -1,0 +1,11 @@
+C:\Users\mhmtm\Desktop\RecapDemo\RecapDemo\obj\Debug\RecapDemo.csproj.AssemblyReference.cache
+C:\Users\mhmtm\Desktop\RecapDemo\RecapDemo\obj\Debug\RecapDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\mhmtm\Desktop\RecapDemo\RecapDemo\obj\Debug\RecapDemo.Form1.resources
+C:\Users\mhmtm\Desktop\RecapDemo\RecapDemo\obj\Debug\RecapDemo.Properties.Resources.resources
+C:\Users\mhmtm\Desktop\RecapDemo\RecapDemo\obj\Debug\RecapDemo.csproj.GenerateResource.cache
+C:\Users\mhmtm\Desktop\RecapDemo\RecapDemo\obj\Debug\RecapDemo.csproj.CoreCompileInputs.cache
+C:\Users\mhmtm\Desktop\RecapDemo\RecapDemo\bin\Debug\RecapDemo.exe.config
+C:\Users\mhmtm\Desktop\RecapDemo\RecapDemo\bin\Debug\RecapDemo.exe
+C:\Users\mhmtm\Desktop\RecapDemo\RecapDemo\bin\Debug\RecapDemo.pdb
+C:\Users\mhmtm\Desktop\RecapDemo\RecapDemo\obj\Debug\RecapDemo.exe
+C:\Users\mhmtm\Desktop\RecapDemo\RecapDemo\obj\Debug\RecapDemo.pdb
